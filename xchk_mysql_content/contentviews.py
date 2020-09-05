@@ -2,7 +2,7 @@ import pathlib
 
 from xchk_core.contentviews import ContentView
 from xchk_core.strats import *
-from xchk_mysql_comparison_strategies import *
+from xchk_mysql_comparison_strategies.strats import *
 
 models_dir = pathlib.Path(__file__).parent / 'solutions'
 
