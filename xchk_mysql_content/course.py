@@ -4,4 +4,4 @@ from .contentviews import *
 
 course = Course('mysql',
                 'MySQL',
-                [(DemoMySQLView,[])])
+                [])
