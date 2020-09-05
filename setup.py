@@ -6,7 +6,7 @@ packages = \
 
 package_data = \
 {'': ['*'],
- 'xchk_mysql_content': ['static/xchk_mysql_content/images/*', 'templates/xchk_mysql_content/*']}
+ 'xchk_mysql_content': ['solutions/*','static/xchk_mysql_content/images/*', 'templates/xchk_mysql_content/*']}
 
 install_requires = \
 []
