@@ -4,7 +4,7 @@ from xchk_core.contentviews import ContentView
 from xchk_core.strats import *
 from xchk_mysql_comparison_strategies import *
 
-models_dir = pathlib.Path(__file__).parent / solutions
+models_dir = pathlib.Path(__file__).parent / 'solutions'
 
 class CheckTestingView(ContentView):
      
